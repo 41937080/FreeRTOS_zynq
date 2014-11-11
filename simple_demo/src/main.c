@@ -176,7 +176,7 @@ int main( void )
 	/* Configure the hardware ready to run the demo. */
 	prvSetupHardware();
 
-	printf("asdfas\r\n");
+	printf("Hello\r\n");
 
 	/* The mainSELECTED_APPLICATION setting is described at the top
 	of this file. */
