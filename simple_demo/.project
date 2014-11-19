@@ -3,6 +3,7 @@
 	<name>FreeRTOS</name>
 	<comment></comment>
 	<projects>
+		<project>freeRTOS_bsp</project>
 		<project>FreeRTOS_generated_bsp</project>
 		<project>FreeRTOS_bsp</project>
 	</projects>
