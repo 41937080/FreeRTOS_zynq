@@ -1,0 +1,8 @@
+minimal_demo
+	Ported the http://www.freertos.org/Hardware-independent-RTOS-example.html demo
+	to the MicroZedBoard
+	Toggles an LED every 500ms
+
+simple_demo
+	reduced version of the original big example from http://www.freertos.org/a00104.html?1
+	working in the MicroZedBoard
