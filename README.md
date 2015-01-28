@@ -1,3 +1,6 @@
+	Important!!
+	Read the File_Structure.txt file to get an overview of the contents
+	
 	Basic example of FreeRTOS in the MicroZedBoard
 	==============================================
 	==============================================
